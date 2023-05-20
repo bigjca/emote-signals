@@ -1,0 +1,21 @@
+button {
+  margin-left: 1rem;
+}
+.messages {
+  margin-top: 1rem;
+  outline: black solid 1px;
+  width: 280px;
+  height: 600px;
+  overflow-y: scroll;
+  margin-bottom: 1rem;
+}
+
+.message-holder{
+  display: flex;
+  max-width: 280px;
+  flex-wrap: wrap;
+}
+
+canvas {
+  outline: black solid 1px;
+}
